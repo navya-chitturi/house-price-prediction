@@ -1,16 +1,16 @@
-# 🏡 House Price Prediction using Linear Regression
+#  House Price Prediction using Linear Regression
 
 This project demonstrates the use of **Linear Regression** to predict house prices based on various housing features. The model is built using Python and scikit-learn, and the workflow is executed in **Google Colab**.
 
 ---
 
-## 📁 Files Included
+##  Files Included
 - `House_Price_Prediction.ipynb`: Jupyter notebook containing the complete code from data preprocessing to model evaluation.
 - `README.md`: Overview of the project and instructions.
 
 ---
 
-## ⚙️ Technologies Used
+##  Technologies Used
 - Python
 - Google Colab
 - pandas
@@ -19,7 +19,7 @@ This project demonstrates the use of **Linear Regression** to predict house pric
 
 ---
 
-## 📊 Project Workflow
+##  Project Workflow
 
 1. **Data Upload**: Load CSV file using Colab’s file upload method.
 2. **Data Preprocessing**:
